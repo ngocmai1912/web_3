@@ -1,0 +1,137 @@
+body{
+    background-color: #F5F8F8 !important;
+}
+
+.tblInfo{
+    background-color: #255aa5;
+    color: #ffffff;
+}
+.btn-info{
+    background-color: #A7C7E7;
+    font-weight: 500;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 10%;
+}
+.btn-info:hover{
+    background-color: #255aa5;
+    color: #ffffff;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a, .navbar-nav li a:focus {
+    color: #ffffff !important;
+}
+nav .container {
+    font-weight: 600;
+}
+.text-color {
+    color: #7393B3;
+}
+
+h1.a{
+    font-style: bold;
+    font-weight: 500;
+    font-size: 35px;
+}
+h1.b{
+    font-weight: 400;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+div.frame{
+    height: 100%;
+    width: 30%;
+}
+.text-amount{
+    font-style: bold;
+    font-weight: 600;
+    font-size: 36px;
+    color: #000000;
+}
+.text-des{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.icon-calendar{
+    color: #8ee068;
+    font-size: 30px;
+}
+.icon-refund{
+    color: #FDA24F;
+    font-size: 30px;
+}
+.icon-deliver{
+    color: #E14B67;
+    font-size: 30px;
+}
+
+.border{
+    border-radius: 20px;
+}
+
+.product-img {
+    width: 100%;
+    height: 300px;
+}
+
+.frame-pro {
+    height: 400px;
+}
+
+.background-red {
+    background-color: #7393B3;
+}
+
+.container-fluid {
+    padding: 60px 50px;
+}
+.icon-small {
+    color: #255aa5;
+    font-size: 50px;
+}
+
+.icon-small:hover {
+    transform: scale(1.25);
+}
+
+
+.wrap-card:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.wrap-card .card-effect  {
+    width: 100%;
+    height: 100%;
+    background-color: #f4f4f4;
+    padding: 30px;
+    display: flex;
+    align-items: flex-end;
+    transition: all 0.4s ease;
+    opacity: 0;
+}
+
+.card-body {
+    transition: all 0.4s ease;   
+}
+
+.wrap-card:hover .card-body a {
+    color: #000
+}
+
+.wrap-card:hover .card-effect{
+    opacity: 0.8;
+}
+
+.wrap-section {
+    padding: 60px 0;
+}
+
+.img-info{
+    border-radius: 10%;
+    width: 60px;
+    height: 60px;
+}
+
